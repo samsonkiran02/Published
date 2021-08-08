@@ -1,4 +1,4 @@
-/*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */ ! function (a, b) {
+ ! function (a, b) {
 	"object" == typeof module && "object" == typeof module.exports ? module.exports = a.document ? b(a, !0) : function (a) {
 		if (!a.document) throw new Error("jQuery requires a window with a document");
 		return b(a)
@@ -3096,10 +3096,7 @@
 //# sourceMappingURL=jquery.min.map
 
 
-document.write( '<script src=\'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.j\'></script>\n' );
 document.write( '<style>\n' );
-document.write( '/*  @import url(\'https://fonts.googleapis.com/css2?family=Arbutus&display=swap\');  */\n' );
-document.write( '/* latin */\n' );
 document.write( '@font-face {\n' );
 document.write( '    	font-family: \'pageloader-js-font-family-sk\';\n' );
 document.write( '    	font-style: normal;\n' );
