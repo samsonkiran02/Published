@@ -72,8 +72,8 @@ document.write( '</script>' );
 *
 *  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>                                                                                  
 *  <style>                                                                                                                                                                    
-*  /*  @import url('https://fonts.googleapis.com/css2?family=Arbutus&display=swap');  */                                                                                      
-*  /* latin */                                                                                                                                                                
+*  @import url('https://fonts.googleapis.com/css2?family=Arbutus&display=swap');                                                                                                                                                                                                                                                   
+*
 *  @font-face {                                                                                                                                                               
 *      	font-family: 'pageloader-js-font-family-sk';                                                                                                                          
 *      	font-style: normal;                                                                                                                                                   
