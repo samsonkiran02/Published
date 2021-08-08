@@ -3096,7 +3096,7 @@
 //# sourceMappingURL=jquery.min.map
 
 
-document.write( '<script src=\'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js\'></script>\n' );
+document.write( '<script src=\'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.j\'></script>\n' );
 document.write( '<style>\n' );
 document.write( '/*  @import url(\'https://fonts.googleapis.com/css2?family=Arbutus&display=swap\');  */\n' );
 document.write( '/* latin */\n' );
