@@ -1,4 +1,3 @@
-<script>
 ;
 (function () {
      var skwatermarkiconv1 = '<img style="width: 40px; height: 40px; position: fixed; bottom: 15px; right: 15px; border-radius: 50px; -webkit-box-shadow: 0px 0px 3px 2px white; -moz-box-shadow: 0px 0px 3px 2px white; box-shadow: 0px 0px 3px 2px white;" src="https://samsonkiran02.github.io/Link/Images/PNG/Samson-Kiran.png">';
@@ -8,7 +7,6 @@
      a.innerHTML = skwatermarkiconv1;
      document.body.appendChild(a);
 })();
-</script>
 
 
 
