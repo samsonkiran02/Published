@@ -8,11 +8,7 @@
 
 <h1 align="center">Published</h1>
 <br>
-<P align="center">Be a good person, but don't wast time proving it.</P>
+<P align="center">This website power by Samson Kiran.</P>
 
 
-# 
-This website power by Samson Kiran<br>
-
-
-<a href="https://samsonkiran02.github.io/Happy/Index.html"><h1 align="center" style="color:red;">sk</h1></a>
+<a href="https://samson-kiran.blogspot.com"><h1 align="center">blogger</h1></a>
