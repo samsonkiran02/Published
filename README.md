@@ -1,5 +1,5 @@
 # Published
-This website power by <h1 align="center" style="color:red;">Samson Kiran</h1><br>
+This website power by Samson Kiran<br>
 
 
 <a href="https://samsonkiran02.github.io/Happy/Index.html"><h1 align="center" style="color:red;">sk</h1></a>
