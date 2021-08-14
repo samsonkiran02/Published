@@ -2,7 +2,7 @@
 <p align="center"><img height="350px" width="350px" style="border-radius:100px;" src="https://samsonkiran02.github.io/Link/Images/PNG/Samson-Kiran.png" alt="sk"></p>
 
 
-<p align="center" style="font-size:100px;">Samson Kiran</p>
+<h2 align="center">Samson Kiran</h2>
 
 # Published
 This website power by Samson Kiran<br>
