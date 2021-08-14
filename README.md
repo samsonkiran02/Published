@@ -4,8 +4,14 @@
 <h1 align="center">Samson Kiran</h1>
 <br>
 <P align="center">Be a good person, but don't wast time proving it.</P>
+<br>
 
-# Published
+<h1 align="center">Published</h1>
+<br>
+<P align="center">Be a good person, but don't wast time proving it.</P>
+
+
+# 
 This website power by Samson Kiran<br>
 
 
