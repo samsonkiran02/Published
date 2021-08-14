@@ -3,7 +3,7 @@
 <br>
 <h1 align="center">Samson Kiran</h1>
 <br>
-<P>Be a good person, but don't wast time proving it.</P>
+<P align="center">Be a good person, but don't wast time proving it.</P>
 
 # Published
 This website power by Samson Kiran<br>
