@@ -1,7 +1,8 @@
 
-<p align="center"><img height="350px" width="350px" style="border-radius:100px;" src="https://samsonkiran02.github.io/Link/Images/PNG/Samson-Kiran.png" alt=""></p>
+<p align="center"><img height="350px" width="350px" style="border-radius:100px;" src="https://samsonkiran02.github.io/Link/Images/PNG/Samson-Kiran.png" alt="sk"></p>
 
 
+<p align="center" style="color:red">Samson Kiran</p>
 
 # Published
 This website power by Samson Kiran<br>
