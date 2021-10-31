@@ -1,13 +1,137 @@
-  
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HQKED2YTVH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HQKED2YTVH');
-</script>
-  
-
-404
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>𝐒𝐚𝐦𝐬𝐨𝐧 𝐊𝐢𝐫𝐚𝐧 - 𝐀𝐠𝐞</title>
+	<!-- meta data -->
+	<meta name="title" content="𝐒𝐚𝐦𝐬𝐨𝐧 𝐊𝐢𝐫𝐚𝐧 - 𝐀𝐠𝐞" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="samsonkiran02, sk02, samson kiran, samsonkiran02 blogspot, samsonkiran02 blogger, Samson Kiran Age" />
+	<meta name="author" content="Samson Kiran" />
+	<meta name="copyright" content="Samson Kiran" />
+	<meta name="robots" content="index, follow" />
+	<link rel="icon" href="https://samsonkiran02.github.io/Link/Images/PNG/Samson-Kiran.png" type="image/png" sizes="200x200" alt="samsonkiran02" />
+	<link rel="shortcut icon" href="https://samsonkiran02.github.io/Link/Images/ICO/Samson-Kiran.ico" type="image/x-icon" sizes="150x150" alt="samsonkiran02" />
+	<link rel="license" href="http://www.apache.org/licenses/LICENSE-2.0" />
+	<!-- Open Graph data -->
+	<meta property="og:locale" content="en_IN" />
+	<meta property="og:author" content="Samson Kiran" />
+	<meta property="og:site_name" content="samsonkiran02" />
+	<meta property="og:url" content="https://samsonkiran02.github.io" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Samson Kiran - Age" />
+	<meta property="og:image" content="https://samsonkiran02.github.io/Link/Images/JPG/Samson-Kiran(2).jpg" />
+	<meta property="og:description" content="" />
+	<!-- Twitter Card data -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="samsonkiran02" />
+	<meta name="twitter:title" content="Samson Kiran - Age" />
+	<meta name="twitter:description" content="" />
+	<meta name="twitter:image" content="https://samsonkiran02.github.io/Link/Images/JPG/Samson-Kiran(2).jpg" />
+	<meta name="twitter:locale" content="en_IN" />
+	<meta name="twitter:author" content="Samson Kiran" />
+	<meta name="twitter:type" content="website" />
+	<meta name="twitter:url" content="https://samsonkiran02.github.io" />
+	<!-- main data -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+	<script src="https://samsonkiran02.github.io/Link/Coding/JS/Published/Fireworks.js"></script>
+	<!-- 
+<script src="https://samsonkiran02.github.io/Published/Js/SK-0A01/V-1.0/Script.js"></script>
+ -->
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Arbutus&display=swap');
+		 body {
+			color: white;
+			height: 100%;
+			width: auto;
+			margin: 0px;
+			padding: 0px;
+			background-color: black;
+			-webkit-user-select: none;
+			-webkit-touch-callout: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+		}
+		.p1 {
+			font-size: 10px;
+		}
+		h1 {
+			font-size: 72px;
+			margin-top: -0px;
+			margin-bottom: 2px;
+			font-family: 'Tourney', cursive;
+		}
+		.dhms-no {
+			font-size: 75px;
+			font-family: 'Arbutus', cursive;
+			color: #808080;
+		}
+		.p2 {
+			font-size: 20px;
+			font-family: 'Tourney', cursive;
+			color: #808080;
+		}
+		.dhms-txt {
+			color: #808080;
+		}
+	</style>
+</head>
+<body onload="start()">
+	<center>
+		<p class="p1">Click on Screen</p>
+		<div id="age">
+			<h1>Samson Kiran</h1>
+			<br> <span class="years dhms-no">00</span>
+			<span class="dhms-txt">years</span>
+			<br> <span class="days dhms-no">00</span>
+			<span class="dhms-txt">days</span>
+			<br> <span class="hours dhms-no">00</span>
+			<span class="dhms-txt">hours</span>
+			<br> <span class="minutes dhms-no">00</span>
+			<span class="dhms-txt">minutes</span>
+			<br> <span class="seconds dhms-no">00</span>
+			<span class="dhms-txt">seconds</span>
+			<p class="p2">old</p>
+		</div>
+	</center>
+	<script>
+		/* Script for onLoad functions */
+		function start() {
+			ageDriver();
+		}
+		/* Script for age countdown */
+		function countUpFromTime(countFrom, id) {
+			countFrom = new Date(countFrom).getTime();
+			var now = new Date(),
+				countFrom = new Date(countFrom),
+				timeDifference = (now - countFrom);
+			var secondsInADay = 60 * 60 * 1000 * 24,
+				secondsInAHour = 60 * 60 * 1000;
+			days = Math.floor(timeDifference / (secondsInADay) * 1);
+			years = Math.floor(days / 365);
+			if (years > 1) {
+				days = days - (years * 365)
+			}
+			hours = Math.floor((timeDifference % (secondsInADay)) / (secondsInAHour) * 1);
+			mins = Math.floor(((timeDifference % (secondsInADay)) % (secondsInAHour)) / (60 * 1000) * 1);
+			secs = Math.floor((((timeDifference % (secondsInADay)) % (secondsInAHour)) % (60 * 1000)) / 1000 * 1);
+			var idEl = document.getElementById(id);
+			idEl.getElementsByClassName('years')[0].innerHTML = years;
+			idEl.getElementsByClassName('days')[0].innerHTML = days;
+			idEl.getElementsByClassName('hours')[0].innerHTML = hours;
+			idEl.getElementsByClassName('minutes')[0].innerHTML = mins;
+			idEl.getElementsByClassName('seconds')[0].innerHTML = secs;
+			clearTimeout(countUpFromTime.interval);
+			countUpFromTime.interval = setTimeout(function () {
+				countUpFromTime(countFrom, id);
+			}, 1000);
+		}
+		
+		function ageDriver() {
+			countUpFromTime("Nov 6, 2004 00:00:00", 'age');
+		}
+	</script>
+</body>
+</html>
